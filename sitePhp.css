@@ -14,7 +14,7 @@ text-align : left;
 
 h2, h3{
 
-color: #C71585;
+color: #8470FF;
 }
 
 
@@ -78,7 +78,7 @@ padding-left: 1em;
 /*Lien passage souris*/
 #onglet a:hover
 {
-color: #C71585;
+color: #8470FF;
 margin-top: 5px;
 margin-bottom: 5px;
 margin-left: auto;
@@ -143,9 +143,9 @@ width: 60%;
 
 #etude
 {
-	border: 1px solid #C71585;
+	border: 1px solid #8470FF;
 	padding-left: 1em;
-	background-color: #C71585;
+	background-color: #8470FF;
 	border-radius: 10px;
 }
 
@@ -159,9 +159,9 @@ width: 60%;
 
 #experience
 {
-	border: 1px solid #C71585;
+	border: 1px solid #8470FF;
 	padding-left: 1em;
-	background-color: #C71585;
+	background-color: #8470FF;
 	border-radius: 10px;
 }
 
@@ -180,7 +180,7 @@ width: 60%;
 #bloc-experience .interieur
 {
 	padding-left: 2em;
-	border: 1px solid #C71585;
+	border: 1px solid #8470FF;
 	border-radius: 10px;
 }
 
@@ -196,7 +196,7 @@ width: 60%;
 {
 	margin-top: 1.5em;
 	padding-left: 2em;
-	border: 1px solid #C71585;
+	border: 1px solid #8470FF;
 	border-radius: 10px;
 }
 
@@ -211,7 +211,7 @@ width: 60%;
 #bloc-competence .interieur
 {
 	padding-left: 2em;
-	border: 1px solid #C71585;
+	border: 1px solid #8470FF;
 	border-radius: 10px;
 }
 /*******compétence*******/
@@ -221,7 +221,7 @@ width: 60%;
 	display: inline-block;
 	padding: 1em;
 	padding-left:2em;
-	border: 1px solid #C71585;
+	border: 1px solid #8470FF;
 	border-radius: 10px;
 }
 
@@ -233,7 +233,7 @@ width: 60%;
 	padding: 1em;
 	margin-left:30%;
 	padding-left: 2em;
-	border: 1px solid #C71585;
+	border: 1px solid #8470FF;
 	border-radius: 10px;
 }
 
